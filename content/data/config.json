@@ -44,7 +44,8 @@
                 "url": "/pricing",
                 "style": "secondary"
             }
-        ]
+        ],
+        "title": "DOS6"
     },
     "footer": {
         "logo": "images/logo.svg",
